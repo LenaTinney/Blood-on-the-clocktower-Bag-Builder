@@ -1,7 +1,19 @@
-# COMP2300 Assignment 2
+# Blood on the clocktower Bag Builder
 
-This is the repo for your second assignment of the course.
+## Features
+The primary goal of this project is to make an automatic bag distrubuter for n people to play the game blood on the clocktower
+## Rules
+Please View for rules: https://wiki.bloodontheclocktower.com/Rules_Explanation .
 
-Do **not** modify the `.gitlab-ci.yml` file as the results of your CI will be used to generate grades. Tampering with this file will be noticed and may result in academic misconduct.
 
-For more information, read the [assessment page](https://comp.anu.edu.au/courses/comp2300/assessments/assignment-2/).
+Additionaly this is the script which the program uses:
+![alt text][script]
+
+
+[script]:assets/Script_used.png
+
+
+This could probably be edited to make custom scirpt functionality but that would require far more coding.
+## Credit
+
+Game and all intelectual property belongs to The Pandemonium Instute, I make no claim to own any of the game here.
