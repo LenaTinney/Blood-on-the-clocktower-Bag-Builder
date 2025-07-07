@@ -1,7 +1,7 @@
 # Blood on the clocktower Bag Builder
 
 ## Features
-The primary goal of this project is to make an automatic bag distrubuter for n people to play the game blood on the clocktower
+The primary goal of this project is to make an automatic bag distrubuter for n people to play the game blood on the clocktower, that runs on a microbit in armv7
 ## Rules
 Please View for rules: https://wiki.bloodontheclocktower.com/Rules_Explanation .
 
